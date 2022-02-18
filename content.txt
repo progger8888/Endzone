@@ -1,6 +1,6 @@
-DayZ 1.16
+You found a bug?
+Report it under #bug-report
 
-And here we go!!!!!
 
 Have Fun 
 EZ Staff
