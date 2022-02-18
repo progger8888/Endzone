@@ -1,5 +1,5 @@
 You found a bug?
-Report it under #bug-report
+Open a ticket!
 
 
 Have Fun 
