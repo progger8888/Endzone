@@ -1,8 +1,9 @@
-You found a bug?
-Open a ticket!
 
-March 01, 00:00 CEST
-Car wipe!
+Car wipe - done
+
+PSA: The buttpack is finally fixed.
+Anyway, all wrongly attached packs (platecarrier for example) will drop on the ground, on the next login.
+
 
 Have Fun 
 EZ Staff
