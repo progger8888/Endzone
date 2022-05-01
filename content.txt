@@ -1,10 +1,9 @@
 EVENT TICKER
 
-S1: KING OF THE HILL EVENT
-Date: TBD
-
 S2:  THE MAZE
-Date: May 1st at 17:00 GMT
+Date: ACTIVE !
+
+Next Car Wipe is 03.05.2022
 
 Last changelog
 
