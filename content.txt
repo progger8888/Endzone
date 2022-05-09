@@ -1,9 +1,4 @@
-EVENT TICKER
-
-S2:  THE MAZE
-Date: ACTIVE !
-
-Next Car Wipe is 03.05.2022
+Welcome Suvivor!
 
 Last changelog
 
