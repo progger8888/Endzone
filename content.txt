@@ -1,1 +1,18 @@
-Hey :)
+Survivor, just a quick question!
+
+Where is your prefered spawn location ?
+
+Kamenka-Kamarovo-Balota  !vote1
+Chernogorsk              !vote2
+Elektrozavodsk           !vote3
+Kamyshovo                !vote4
+Solnechny                !vote5
+Nizhnoye                 !vote6
+Berezino                 !vote7
+Svetloyarsk              !vote8
+
+How to vote?
+
+Join a server and type  !voteX in the chat.
+
+EZ Staff
