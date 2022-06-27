@@ -1,18 +1,7 @@
-Survivor, just a quick question!
+Endzone S2 Hardware upgrade.
 
-Where is your prefered spawn location ?
-
-Kamarovo-Balota          !vote1
-Chernogorsk              !vote2
-Elektrozavodsk           !vote3
-Kamyshovo                !vote4
-Solnechny                !vote5
-Nizhnoye                 !vote6
-Berezino                 !vote7
-Svetloyarsk              !vote8
-
-How to vote?
-
-Join a server and type  !voteX in the chat.
+Thursday, in the course of the morning.
+Estimated downtime: 5-30 mins.
+IP will remain the same.
 
 EZ Staff
