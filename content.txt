@@ -4,3 +4,23 @@ Garages need to be connected to the main-base or 1,000 meters away.
 Garage = Base
 
 Next Vehicle Wipe: 2.april.2023
+
+
+
+---------------------------------
+
+The Starter Kits are available on all EndZone Servers
+These contain a small tent, and some base building tools, for a less complicated start in your adventure.
+
+1x Medium Tent
+1x Custom Door Kit
+1x Hammer
+1x Pack of nails
+1x Shovel
+1x Metalwire
+1x Codelock
+1x Hatchet
+1x Pliers
+1x Hacksaw
+
+Open a Starter-Kit ticket...
