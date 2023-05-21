@@ -1,7 +1,7 @@
 The Purge S1 / S2 : 22/5  6pm CEST
-
-
-
+---------------------
+Monday 10am CEST, Server maintenance - S1
+---------------------
 New ingame-command:  !kill   
 
 ---------------------
