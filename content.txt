@@ -1,9 +1,15 @@
+ENDZONE MEDIEVAL EVENT S1
+
+Event will take place on Monday September 18th 20:00 CEST
+Check #event-info & event-reg
+
+
+---------------------
 Global Chat
 
 Switch Chat Channel -> P
 Increase Chat Size  -> Page Up
 Decrease Chat Size  -> Page Down
-
 ---------------------
 
 
