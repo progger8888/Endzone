@@ -1,3 +1,10 @@
+Global Chat
+
+Switch Chat Channel -> P
+Increase Chat Size  -> Page Up
+Decrease Chat Size  -> Page Down
+
+---------------------
 
 
 1.22 Wipe - Tuesday, August 29th!
