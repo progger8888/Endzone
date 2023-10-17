@@ -1,62 +1,31 @@
 ---------------------
-Global Chat
-
-Switch Chat Channel -> P
-Increase Chat Size  -> Page Up
-Decrease Chat Size  -> Page Down
+New areas now live!
 ---------------------
-
-
-1.22 Wipe - Tuesday, August 29th!
-
----------------------
-Return of Factions (EZ1)
-
-What do official factions offer?
-
-Competitive tournaments/events showcased in #endzone-videos.
-Enhanced interaction via map marking, encouraging encounters.
-Free custom perks like armbands, base flags or banners.
-Roundtable discussions between faction leaders and staff.
-Recognition for squad players and acknowledgment of controlled areas.
-
-    More information can be found under #factions-info.
-
-To register your group as an official ENDZONE faction, kindly get in touch with @Crack Wayne or create a ticket and submit the following details:
-
-Be a group of at least 5 players.
-Have a logo with no background available.
-Create a story/lore of your group in a few sentences.
-Provide a full list of members.
-Provide the location on the map that your faction occupies.
-
-- EZ Staff
-
-
+Extension to Zaprudnoe military
+Ruined church in Balota
+Cherno gas station revamp
+Mini summer camp by Vybor
+Severograd Hospital Overhaul
+Container yard in Zelenogorsk
+Small additions to Zelenogorsk military base
 
 ---------------------
-Vehicle Wipe: 05.Aug.2023  
-This does not apply to packed bicycles.
+Key Cards (Currently being tested)
+---------------------
+Revamped Tisy HQ for keycard room
+Fully custom factory for keycard room
+Custom bunker near Black Lake for keycard room
 ---------------------
 
-SOF Headphones reduces all sound effects by 90%
-(beta test) 
-
 ---------------------
-Adaptive Walk / Sprint -> Numpad Enter
-Run  -> Numpad + 
-Walk -> Numpad -
-(beta test) 
-
+Starter Kits are now available
 ---------------------
-New ingame-command:  !kill   
-
+Instructions:
+On Discord - Open a Starter Kit Ticket
+Follow instructions given
+Combine the kit with any tool to gain items.
 ---------------------
-The Starter Kits are available on all EndZone Servers
-These contain a small tent, and some base building tools, for a less complicated start in your adventure.
-
----------------------
-Kit-Items:
+Items in Starter Kit:
 1x Medium Tent
 1x Custom Door Kit
 1x Hammer
@@ -69,13 +38,26 @@ Kit-Items:
 1x Hacksaw
 ---------------------
 
-Requirements:
-1. Less then 15 hours playtime after on a EndZone server after 1.20 patch.
-2. You have to be in-game to receive your kit.
 ---------------------
- 
-Instructions:
-1. Open a Starter-Kit ticket.
-2. Wait for a reply.
-3. A small kit will spawn directly under you, only a tool is required to open the case.
-4. Unpack end enjoy!
+*New Feature* - Global Chat
+---------------------
+Switch Chat Channel -> P
+Increase Chat Size  -> Page Up
+Decrease Chat Size  -> Page Down
+---------------------
+
+---------------------
+*New Feature* - SOF Headphones (beta)
+---------------------
+SOF Headphones reduces all sound effects by 90%
+---------------------
+
+---------------------
+Server Info
+---------------------
+Current Version: 1.22
+Last Wipe: 29/08/2023
+Next Wipe: n/a
+Last Vehicle Wipe: 05/08/2023
+Next Vehicle Wipe: n/a
+---------------------
