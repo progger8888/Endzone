@@ -1,3 +1,15 @@
+Global Chat
+
+Switch Chat Channel -> P
+Increase Chat Size  -> Page Up
+Decrease Chat Size  -> Page Down
+
+Auto Run
+
+Walk or Sprint + Numpad Enter
+Run  -> Numpad + 
+Walk -> Numpad -
+
 ---------------------
 New areas now live!
 ---------------------
