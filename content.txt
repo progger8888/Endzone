@@ -1,14 +1,8 @@
-Global Chat
-
-Switch Chat Channel -> P
-Increase Chat Size  -> Page Up
-Decrease Chat Size  -> Page Down
-
-Auto Run
-
-Walk or Sprint + Numpad Enter
-Run  -> Numpad + 
-Walk -> Numpad -
+---------------------
+NEXT WIPE
+---------------------
+1.23 Releases on 07/11/2023
+Next Wipe: 07/11/2023
 
 ---------------------
 New areas now live!
@@ -27,11 +21,39 @@ Key Cards (Currently being tested)
 Revamped Tisy HQ for keycard room
 Fully custom factory for keycard room
 Custom bunker near Black Lake for keycard room
----------------------
 
 ---------------------
-Starter Kits are now available
+*New Feature* - Auto Run
 ---------------------
+Walk or Sprint + Numpad Enter
+Run  -> Numpad + 
+Walk -> Numpad -
+
+---------------------
+*New Feature* - Global Chat
+---------------------
+Switch Chat Channel -> P
+Increase Chat Size  -> Page Up
+Decrease Chat Size  -> Page Down
+
+---------------------
+*New Feature* - SOF Headphones (beta)
+---------------------
+SOF Headphones reduces all sound effects by 90%
+
+---------------------
+Server Info
+---------------------
+Current Version: 1.22
+Last Wipe: 29/08/2023
+Next Wipe: 07/11/2023
+Last Vehicle Wipe: 05/08/2023
+Next Vehicle Wipe: 07/11/2023
+
+---------------------
+Starter Kits
+---------------------
+Not available early wipe
 Instructions:
 On Discord - Open a Starter Kit Ticket
 Follow instructions given
@@ -48,28 +70,3 @@ Items in Starter Kit:
 1x Hatchet
 1x Pliers
 1x Hacksaw
----------------------
-
----------------------
-*New Feature* - Global Chat
----------------------
-Switch Chat Channel -> P
-Increase Chat Size  -> Page Up
-Decrease Chat Size  -> Page Down
----------------------
-
----------------------
-*New Feature* - SOF Headphones (beta)
----------------------
-SOF Headphones reduces all sound effects by 90%
----------------------
-
----------------------
-Server Info
----------------------
-Current Version: 1.22
-Last Wipe: 29/08/2023
-Next Wipe: n/a
-Last Vehicle Wipe: 05/08/2023
-Next Vehicle Wipe: n/a
----------------------
