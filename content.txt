@@ -1,8 +1,8 @@
 ---------------------
-NEXT WIPE
+DayZ Update 1.23
 ---------------------
-1.23 Releases on 07/11/2023
-Next Wipe: 07/11/2023
+Release Date & Server Wipe: 07/11/2023
+
 
 ---------------------
 New areas now live!
