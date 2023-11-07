@@ -16,7 +16,7 @@ Container yard in Zelenogorsk
 Small additions to Zelenogorsk military base
 
 ---------------------
-Key Cards (Currently being tested)
+Key Cards
 ---------------------
 Revamped Tisy HQ for keycard room
 Fully custom factory for keycard room
@@ -51,7 +51,7 @@ Last Vehicle Wipe: 05/08/2023
 Next Vehicle Wipe: 07/11/2023
 
 ---------------------
-Starter Kits
+Starter Kits (Deactivated)
 ---------------------
 Not available early wipe
 Instructions:
