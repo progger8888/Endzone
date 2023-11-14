@@ -1,5 +1,5 @@
 ---------------------
-FRESH WIPE - DayZ Update 1.23
+DayZ Update 1.23
 ---------------------
 Wiped on: 07/11/2023
 
@@ -45,10 +45,10 @@ SOF Headphones reduces all sound effects by 90%
 Server Info
 ---------------------
 Current Version: 1.22
-Last Wipe: 29/08/2023
-Next Wipe: 07/11/2023
-Last Vehicle Wipe: 05/08/2023
-Next Vehicle Wipe: 07/11/2023
+Last Wipe: 07/11/2023
+Next Wipe: TBC
+Last Vehicle Wipe: 07/11/2023
+Next Vehicle Wipe: TBC
 
 ---------------------
 Starter Kits (Deactivated)
