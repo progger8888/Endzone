@@ -4,8 +4,8 @@ Server Info
 Current Version: 1.23
 Last Wipe: 07/11/2023
 Next Wipe: TBC
-Last Vehicle Wipe: 07/11/2023
-!!!Next Vehicle Wipe: 23/11/2023!!!
+Last Vehicle Wipe: 23/11/2023
+Next Vehicle Wipe: TBC
 
 
 ---------------------
