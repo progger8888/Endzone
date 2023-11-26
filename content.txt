@@ -23,8 +23,8 @@ Small additions to Zelenogorsk military base
 Key Cards
 ---------------------
 Yellow Keycard - Custom bunker near Black Lake
-Red Keycard - Custom Factory near Stary Yar
-Black Keycard - Revamped Tisy HQ
+Red Keycard - Revamped Tisy HQ
+Black Keycard - Custom Factory near Stary Yar
 
 
 ---------------------
