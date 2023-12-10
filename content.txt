@@ -47,9 +47,8 @@ Decrease Chat Size  -> Page Down
 SOF Headphones reduces all sound effects by 90%
 
 ---------------------
-Starter Kits (Deactivated)
+Starter Kits
 ---------------------
-Not available early wipe
 Instructions:
 On Discord - Open a Starter Kit Ticket
 Follow instructions given
