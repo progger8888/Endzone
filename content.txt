@@ -7,7 +7,6 @@ Next Wipe: TBC
 Last Vehicle Wipe: 23/11/2023
 Next Vehicle Wipe: TBC
 
-
 ---------------------
 New areas now live!
 ---------------------
@@ -23,9 +22,9 @@ Small additions to Zelenogorsk military base
 Key Cards
 ---------------------
 Yellow Keycard - Custom bunker near Black Lake
+Blue Keycard - (Coming Soon)
 Red Keycard - Revamped Tisy HQ
-Black Keycard - Custom Factory near Stary Yar
-
+Black Keycard - Custom Factory near Stary Yar (Coming Soon)
 
 ---------------------
 *New Feature* - Auto Run
