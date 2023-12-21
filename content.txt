@@ -3,26 +3,14 @@ Server Info
 ---------------------
 Current Version: 1.23
 Last Wipe: 07/11/2023
-Next Wipe: TBC
+Next Wipe: 22/12/2023
 Last Vehicle Wipe: 23/11/2023
-Next Vehicle Wipe: TBC
-
----------------------
-New areas now live!
----------------------
-Extension to Zaprudnoe military
-Ruined church in Balota
-Cherno gas station revamp
-Mini summer camp by Vybor
-Severograd Hospital Overhaul
-Container yard in Zelenogorsk
-Small additions to Zelenogorsk military base
+Next Vehicle Wipe: 22/12/2023
 
 ---------------------
 Key Cards
 ---------------------
 Yellow Keycard - Custom bunker near Black Lake
-Blue Keycard - (Coming Soon)
 Red Keycard - Revamped Tisy HQ
 Black Keycard - Custom Factory near Stary Yar (Coming Soon)
 
@@ -39,11 +27,6 @@ Walk -> Numpad -
 Switch Chat Channel -> P
 Increase Chat Size  -> Page Up
 Decrease Chat Size  -> Page Down
-
----------------------
-*New Feature* - SOF Headphones (beta)
----------------------
-SOF Headphones reduces all sound effects by 90%
 
 ---------------------
 Starter Kits
