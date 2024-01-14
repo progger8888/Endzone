@@ -8,6 +8,27 @@ Last Vehicle Wipe: 22/12/2023
 Next Vehicle Wipe: TBA
 
 ---------------------
+Starter Kits
+---------------------
+For players with less than 15 hours playtime.
+Instructions:
+- On Discord - Open a Starter Kit Ticket
+- Follow instructions given
+- Combine the kit with any tool to gain items.
+---------------------
+Items in Starter Kit:
+1x Medium Tent
+1x Custom Door Kit
+1x Hammer
+1x Pack of nails
+1x Shovel
+1x Metalwire
+1x Codelock
+1x Hatchet
+1x Pliers
+1x Hacksaw
+
+---------------------
 Key Cards
 ---------------------
 Yellow Keycard - Custom bunker near Black Lake
@@ -27,23 +48,3 @@ Walk -> Numpad -
 Switch Chat Channel -> P
 Increase Chat Size  -> Page Up
 Decrease Chat Size  -> Page Down
-
----------------------
-Starter Kits
----------------------
-Instructions:
-On Discord - Open a Starter Kit Ticket
-Follow instructions given
-Combine the kit with any tool to gain items.
----------------------
-Items in Starter Kit:
-1x Medium Tent
-1x Custom Door Kit
-1x Hammer
-1x Pack of nails
-1x Shovel
-1x Metalwire
-1x Codelock
-1x Hatchet
-1x Pliers
-1x Hacksaw
