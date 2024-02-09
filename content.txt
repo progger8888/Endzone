@@ -3,14 +3,14 @@ Server Info
 ---------------------
 Current Version: 1.23 Winter Chernarus
 Last Wipe: 22/12/2023
-Next Wipe: TBA
+Next Wipe: 20/02/2024
 Last Vehicle Wipe: 22/12/2023
-Next Vehicle Wipe: TBA
+Next Vehicle Wipe: 20/02/2024
 
 ---------------------
 Starter Kits
 ---------------------
-For players with less than 15 hours playtime.
+(Not available at the start of wipe)
 Instructions:
 - On Discord - Open a Starter Kit Ticket
 - Follow instructions given
