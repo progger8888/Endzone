@@ -1,11 +1,11 @@
 ---------------------
 Server Info
 ---------------------
-Current Version: 1.23 Winter Chernarus
-Last Wipe: 22/12/2023
-Next Wipe: 20/02/2024
-Last Vehicle Wipe: 22/12/2023
-Next Vehicle Wipe: 20/02/2024
+Current Version: 1.24 Chernarus
+Last Wipe: 20/02/2024
+Next Wipe: TBA
+Last Vehicle Wipe: 20/02/2024
+Next Vehicle Wipe: TBA
 
 ---------------------
 Starter Kits
