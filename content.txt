@@ -1,10 +1,10 @@
 ---------------------
 Server Info
 ---------------------
-Current Version: 1.24 Chernarus
-Last Wipe: 20/02/2024
+Current Version: 1.24 Chernarus EXPANSION
+Last Wipe: 19/04/2024
 Next Wipe: TBA
-Last Vehicle Wipe: 20/02/2024
+Last Vehicle Wipe: 19/04/2024
 Next Vehicle Wipe: TBA
 
 ---------------------
@@ -38,13 +38,9 @@ Black Keycard - Custom Factory near Stary Yar (Coming Soon)
 ---------------------
 *New Feature* - Auto Run
 ---------------------
-Walk or Sprint + Numpad Enter
-Run  -> Numpad + 
-Walk -> Numpad -
+Walk or Sprint Y
 
 ---------------------
 *New Feature* - Global Chat
 ---------------------
-Switch Chat Channel -> P
-Increase Chat Size  -> Page Up
-Decrease Chat Size  -> Page Down
+Switch Chat Channel -> ,
